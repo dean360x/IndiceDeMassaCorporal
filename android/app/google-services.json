@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485602101291",
+    "project_id": "indicedemassacorporal-br",
+    "storage_bucket": "indicedemassacorporal-br.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485602101291:android:d00a99a76398a62c38426e",
+        "android_client_info": {
+          "package_name": "com.example.indicedemassacorporal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485602101291-lkgd8r0rs6fmoh88ldvscps5ehr7glhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALsKetIrJeZFZcxfanNZf7HXLZjtYJUIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485602101291-lkgd8r0rs6fmoh88ldvscps5ehr7glhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
